@@ -60,7 +60,7 @@ Dense Bundle Adjustment (DBA) layer.
 
 
 <map name="image-map">
-    <area target="_self" alt="graph" title="graph" href="https://avinashay.github.io/posts/droid-slam-paper-review/#co-visibility-graph" coords="2,196,118,273" shape="rect" style="opacity:0.2;">
+    <area target="_self" alt="graph" title="graph" href="https://avinashay.github.io/posts/droid-slam-paper-review/#co-visibility-graph" coords="2,196,118,273" shape="rect">
     <area target="_self" alt="feature" title="feature" href="https://avinashay.github.io/posts/droid-slam-paper-review/#feature-extraction" coords="1,49,120,99" shape="rect">
     <area target="_self" alt="update" title="update" href="https://avinashay.github.io/posts/droid-slam-paper-review/#update-operator" coords="500,111,376,55" shape="rect">
     <area target="_self" alt="correlation" title="correlation" href="https://avinashay.github.io/posts/droid-slam-paper-review/#correlation-pyramid" coords="285,13,300,89,417,33,435,8,344,9,310,9" shape="poly">
