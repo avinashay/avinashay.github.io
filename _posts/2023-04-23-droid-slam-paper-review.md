@@ -60,10 +60,10 @@ Dense Bundle Adjustment (DBA) layer.
 
 
 <map name="image-map">
-    <area target="_self" alt="graph" title="graph" href="https://avinashay.github.io/posts/droid-slam/#co-visibility-graph" coords="2,196,118,273" shape="rect" style="opacity:0.2;">
-    <area target="_self" alt="feature" title="feature" href="https://avinashay.github.io/posts/droid-slam/#feature-extraction" coords="1,49,120,99" shape="rect">
-    <area target="_self" alt="update" title="update" href="https://avinashay.github.io/posts/droid-slam/#update-operator" coords="500,111,376,55" shape="rect">
-    <area target="_self" alt="correlation" title="correlation" href="https://avinashay.github.io/posts/droid-slam/#correlation-pyramid" coords="285,13,300,89,417,33,435,8,344,9,310,9" shape="poly">
+    <area target="_self" alt="graph" title="graph" href="https://avinashay.github.io/posts/droid-slam-paper-review/#co-visibility-graph" coords="2,196,118,273" shape="rect" style="opacity:0.2;">
+    <area target="_self" alt="feature" title="feature" href="https://avinashay.github.io/posts/droid-slam-paper-review/#feature-extraction" coords="1,49,120,99" shape="rect">
+    <area target="_self" alt="update" title="update" href="https://avinashay.github.io/posts/droid-slam-paper-review/#update-operator" coords="500,111,376,55" shape="rect">
+    <area target="_self" alt="correlation" title="correlation" href="https://avinashay.github.io/posts/droid-slam-paper-review/#correlation-pyramid" coords="285,13,300,89,417,33,435,8,344,9,310,9" shape="poly">
 </map>
 
 <p style="text-align: center;">click the image hyperlinks to learn more about each module</p>
@@ -108,10 +108,10 @@ The core component of SLAM system is a learned update operator​. The update op
 <img src="update.png" usemap="#image-map1">
 
 <map name="image-map1">
-    <area target="_self" alt="projection" title="projection" href="https://avinashay.github.io/posts/droid-slam/#correspondence-field-p_ij" coords="2,269,139,190" shape="rect">
-    <area target="_self" alt="lookup" title="lookup" href="https://avinashay.github.io/posts/droid-slam/#correlation-lookup-l_r" coords="19,5,164,99" shape="rect">
-    <area target="_self" alt="gru" title="gru" href="https://avinashay.github.io/posts/droid-slam/#convgru" coords="303,129,198,30" shape="rect">
-    <area target="_self" alt="dba" title="dba" href="https://avinashay.github.io/posts/droid-slam/#dense-bundle-adjustment-layer-dba-" coords="259,263,383,330" shape="rect">
+    <area target="_self" alt="projection" title="projection" href="https://avinashay.github.io/posts/droid-slam-paper-review/#correspondence-field-p_ij" coords="2,269,139,190" shape="rect">
+    <area target="_self" alt="lookup" title="lookup" href="https://avinashay.github.io/posts/droid-slam-paper-review/#correlation-lookup-l_r" coords="19,5,164,99" shape="rect">
+    <area target="_self" alt="gru" title="gru" href="https://avinashay.github.io/posts/droid-slam-paper-review/#convgru" coords="303,129,198,30" shape="rect">
+    <area target="_self" alt="dba" title="dba" href="https://avinashay.github.io/posts/droid-slam-paper-review/#dense-bundle-adjustment-layer-dba-" coords="259,263,383,330" shape="rect">
 </map>
 
 <p style="text-align: center;">click the image hyperlinks to learn more about each module</p>
