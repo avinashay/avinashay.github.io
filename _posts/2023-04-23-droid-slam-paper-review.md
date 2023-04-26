@@ -1,6 +1,6 @@
 ---
 title: DROID SLAM PAPER REVIEW
-date: 2022-04-26 14:00:00 -500
+date: 2023-04-23 14:00:00 -500
 math: true
 categories: [SLAM]
 tags: [visual slam, computer vision, deep learning, optical flow, bundle adjustment, robotics]     # TAG names should always be lowercase
