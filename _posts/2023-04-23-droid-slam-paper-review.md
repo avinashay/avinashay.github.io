@@ -2,8 +2,10 @@
 title: DROID SLAM PAPER REVIEW
 date: 2023-04-23 14:00:00 -500
 math: true
+author: avinash
 categories: [SLAM]
 tags: [visual slam, computer vision, deep learning, optical flow, bundle adjustment, robotics]     # TAG names should always be lowercase
+pin: true
 ---
 ## Overview 
 
