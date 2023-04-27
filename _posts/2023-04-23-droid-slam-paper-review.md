@@ -31,7 +31,7 @@ It results in a 2D vector field where each vector represents the displacement of
 
 In the ball game, I use the RAFT algorithm to calculate the optical flow between successive frames. Ball is then moved in direction of the optical flow which is taken at center of current ball position. I also apply a gravity vector to the ball's trajectory at every frame to simulate the effect of gravity.
 
-{% include embed/youtube.html id='r7P8f4egym0' %}
+{% include embed/youtube.html id='624VApJktZw' %}
 
 RAFT[^raft] extracts perpixel features, builds multi-scale 4D correlation volumes for all pairs of pixels, and iteratively updates a flow field through a recurrent unit that performs lookups on the correlation volumes. Current DROID-SLAM is heavily inspried from the RAFT algorithm.
 
